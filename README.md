@@ -30,3 +30,14 @@
 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [BOJ11725.java](https://github.com/java-algorithm/bom/commit/ddf2a95cf27270655d5ee86f4bf989e8a4c27058) |
 | [데스 나이트](https://www.acmicpc.net/problem/16948)    | [BOJ16948.java](https://github.com/java-algorithm/bom/commit/fb7409184d603887746eb8f446d61444f24509a9) |
 | [아기 상어 2](https://www.acmicpc.net/problem/17086)   | [BOJ17086.java](https://github.com/java-algorithm/bom/commit/c178c31cef1cc4164442d8e6910512ae2b24f7ee) |
+
+## 4주차 정렬
+| 문제                                                | 풀이                                                                                                     |
+|---------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [접두사](https://www.acmicpc.net/problem/1141)       | [BOJ1141.java](https://github.com/java-algorithm/bom/commit/29fa33d6ec323c5bb11e2746db875bc2bc4287ed)  |
+| [수 묶기](https://www.acmicpc.net/problem/1744)      | [BOJ1744.java](https://github.com/java-algorithm/bom/commit/8e996b2e79d88a8def1ddaca9fede004e8e5572a)  |
+| [N번째 큰 수](https://www.acmicpc.net/problem/2075)   | [BOJ2075.java](https://github.com/java-algorithm/bom/commit/3f6a88f5c555e67ca704202edfe2305f0d977c8f)  |
+| [세 용액](https://www.acmicpc.net/problem/2473)      | [BOJ2473.java](https://github.com/java-algorithm/bom/commit/391d3635318a2f841ffdf93aaba6cc3d9cd54658)  |
+| [KCPC](https://www.acmicpc.net/problem/3758)      | [BOJ3758.java](https://github.com/java-algorithm/bom/commit/0232fc062bc8af1a938cf47719479a3331bd99b8)  |
+| [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [BOJ10989.java](https://github.com/java-algorithm/bom/commit/297bf4beb48a2da35595ea59b1e9cf23f45e1869) |
+| [좌표 압축](https://www.acmicpc.net/problem/18870)    | [BOJ18870.java](https://github.com/java-algorithm/bom/commit/cee997bd3e5e1f0cd545b22fbf26fff9b4a3a599) |
