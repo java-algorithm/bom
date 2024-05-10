@@ -41,3 +41,14 @@
 | [KCPC](https://www.acmicpc.net/problem/3758)      | [BOJ3758.java](https://github.com/java-algorithm/bom/commit/0232fc062bc8af1a938cf47719479a3331bd99b8)  |
 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [BOJ10989.java](https://github.com/java-algorithm/bom/commit/297bf4beb48a2da35595ea59b1e9cf23f45e1869) |
 | [좌표 압축](https://www.acmicpc.net/problem/18870)    | [BOJ18870.java](https://github.com/java-algorithm/bom/commit/cee997bd3e5e1f0cd545b22fbf26fff9b4a3a599) |
+
+## 5주차 이분 탐색
+| 문제                                               | 풀이                                                                                                     |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [게임](https://www.acmicpc.net/problem/1072)       | [BOJ1072.java](https://github.com/java-algorithm/bom/commit/dbc19c622d65ab1ea02f3a3fe8aa8b23e58a0e34)  |
+| [중량제한](https://www.acmicpc.net/problem/1939)     | [BOJ1939.java](https://github.com/java-algorithm/bom/commit/29c0c9bf03daa36299145788f72ac40878e8179b)  |
+| [공유기 설치](https://www.acmicpc.net/problem/2110)   | [BOJ2110.java](https://github.com/java-algorithm/bom/commit/ad6a30d14174885d2aea50875f53c860eaf7543d)  |
+| [기타 레슨](https://www.acmicpc.net/problem/2343)    | [BOJ2343.java](https://github.com/java-algorithm/bom/commit/c476cbc2625d5a33e0420b4e8834a5a3b67cab86)  |
+| [보석 상자](https://www.acmicpc.net/problem/2792)    | [BOJ2792.java](https://github.com/java-algorithm/bom/commit/6235be9ca0f0dce9d8b09857d810778cb60eb206)  |
+| [소수 사이 수열](https://www.acmicpc.net/problem/3896) | [BOJ3896.java](https://github.com/java-algorithm/bom/commit/78640046893e0b39507196892eac2f3966a7e06f)  |
+| [접두사 찾기](https://www.acmicpc.net/problem/14426)  | [BOJ14426.java](https://github.com/java-algorithm/bom/commit/dc5413b283c04a4702fb6b9eba3f2cc4c4fe151e) |
