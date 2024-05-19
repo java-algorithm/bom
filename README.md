@@ -52,3 +52,14 @@
 | [보석 상자](https://www.acmicpc.net/problem/2792)    | [BOJ2792.java](https://github.com/java-algorithm/bom/commit/6235be9ca0f0dce9d8b09857d810778cb60eb206)  |
 | [소수 사이 수열](https://www.acmicpc.net/problem/3896) | [BOJ3896.java](https://github.com/java-algorithm/bom/commit/78640046893e0b39507196892eac2f3966a7e06f)  |
 | [접두사 찾기](https://www.acmicpc.net/problem/14426)  | [BOJ14426.java](https://github.com/java-algorithm/bom/commit/dc5413b283c04a4702fb6b9eba3f2cc4c4fe151e) |
+
+## 6주차 DP
+| 문제                                                  | 풀이                                                                                                    |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [기타리스트](https://www.acmicpc.net/problem/1495)       | [BOJ1495.java](https://github.com/java-algorithm/bom/commit/67e378c8ecd362b2bf99f88923ca2c921a32b7d8) |
+| [안녕](https://www.acmicpc.net/problem/1535)          | [BOJ1535.java](https://github.com/java-algorithm/bom/commit/cdfac9b034cd4315823f5ffe99be152eecaf5670) |
+| [점프](https://www.acmicpc.net/problem/1890)          | [BOJ1890.java](https://github.com/java-algorithm/bom/commit/f35e3667c04ca23356f55cf763839f7ff05e1946) |
+| [정수 삼각형](https://www.acmicpc.net/problem/1932)      | [BOJ1932.java](https://github.com/java-algorithm/bom/commit/259db6ad64668d63ba53b38a8d51d428d874d3bf) |
+| [떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)    | [BOJ2502.java](https://github.com/java-algorithm/bom/commit/12646fe5ea22350af96c4febab6bf670c7489104) |
+| [스티커](https://www.acmicpc.net/problem/9465)         | [BOJ9465.java](https://github.com/java-algorithm/bom/commit/ffa55d80d2b269200a583dcd88dd8dc49f6a48fb) |
+| [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [BOJ11660.java](https://github.com/java-algorithm/bom/commit/896fefc0f0b53456f1057b4285223bdb5c167936) |
