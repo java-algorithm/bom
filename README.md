@@ -63,3 +63,14 @@
 | [떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)    | [BOJ2502.java](https://github.com/java-algorithm/bom/commit/12646fe5ea22350af96c4febab6bf670c7489104) |
 | [스티커](https://www.acmicpc.net/problem/9465)         | [BOJ9465.java](https://github.com/java-algorithm/bom/commit/ffa55d80d2b269200a583dcd88dd8dc49f6a48fb) |
 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [BOJ11660.java](https://github.com/java-algorithm/bom/commit/896fefc0f0b53456f1057b4285223bdb5c167936) |
+
+## 7주차 최단 경로
+| 문제                                                           | 풀이                                                                                                     |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)       | [BOJ1389.java](https://github.com/java-algorithm/bom/commit/bd6489292028eedfb892c436fa5fc1f4dc413ef2)  |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916)             | [BOJ1916.java](https://github.com/java-algorithm/bom/commit/15c99dc02f0377519fa1e7735ce6a642b31cc257)  |
+| [택배 배송](https://www.acmicpc.net/problem/5972)                | [BOJ5972.java](https://github.com/java-algorithm/bom/commit/d64b4adf488ef4e5b4a209cb0911f3b0c1f7313f)  |
+| [플로이드](https://www.acmicpc.net/problem/11404)                | [BOJ11404.java](https://github.com/java-algorithm/bom/commit/5e97febc7428a56eb33ad3361030fb58f8e29bd8) |
+| [타임머신](https://www.acmicpc.net/problem/11657)                | [BOJ11657.java](https://github.com/java-algorithm/bom/commit/161937a1239b22c592cfa785a54c0ca5403d5515) |
+| [n단 논법](https://www.acmicpc.net/problem/15723)               | [BOJ15723.java](https://github.com/java-algorithm/bom/commit/d5d06e2141832374bcbe5ed38776fecc94548d21) |
+| [Small World Network](https://www.acmicpc.net/problem/18243) | [BOJ18243.java](https://github.com/java-algorithm/bom/commit/0350bea6d896a4f825f9ba1b4eddd2eb607d097d) |
