@@ -74,3 +74,14 @@
 | [타임머신](https://www.acmicpc.net/problem/11657)                | [BOJ11657.java](https://github.com/java-algorithm/bom/commit/161937a1239b22c592cfa785a54c0ca5403d5515) |
 | [n단 논법](https://www.acmicpc.net/problem/15723)               | [BOJ15723.java](https://github.com/java-algorithm/bom/commit/d5d06e2141832374bcbe5ed38776fecc94548d21) |
 | [Small World Network](https://www.acmicpc.net/problem/18243) | [BOJ18243.java](https://github.com/java-algorithm/bom/commit/0350bea6d896a4f825f9ba1b4eddd2eb607d097d) |
+
+## 8주차 그래프 이론
+| 문제                                                   | 풀이                                                                                                     |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [거짓말](https://www.acmicpc.net/problem/1043)          | [BOJ1043.java](https://github.com/java-algorithm/bom/commit/7b3c461e6c27f0535ce408467905ed868cee13a4)  |
+| [도시 분할 계획](https://www.acmicpc.net/problem/1647)     | [BOJ1647.java](https://github.com/java-algorithm/bom/commit/931a12ebe73b288758028d1605e6ff3ab9944cf7)  |
+| [친구 네트워크](https://www.acmicpc.net/problem/4195)      | [BOJ4195.java](https://github.com/java-algorithm/bom/commit/244ba4fc001a7666f13e1cf270f3ebcc18e7bd38)  |
+| [마니또](https://www.acmicpc.net/problem/5107)          | [BOJ5107.java](https://github.com/java-algorithm/bom/commit/3b1767f576e3714a590dc9b04208bf877e8b2938)  |
+| [전력난](https://www.acmicpc.net/problem/6497)          | [BOJ6497.java](https://github.com/java-algorithm/bom/commit/3789ffe0bd7fb5dd989021b06dd12d181c20a933)  |
+| [행성 연결](https://www.acmicpc.net/problem/16398)       | [BOJ16398.java](https://github.com/java-algorithm/bom/commit/fdfaf68bb3f72303d3f45ac5ade601a56ddc62ca) |
+| [튜터-튜티 관계의 수](https://www.acmicpc.net/problem/24542) | [BOJ24542.java](https://github.com/java-algorithm/bom/commit/4091d09e9a53b3699fd33a39ae41998667c53a06) |
