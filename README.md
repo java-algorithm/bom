@@ -85,3 +85,11 @@
 | [전력난](https://www.acmicpc.net/problem/6497)          | [BOJ6497.java](https://github.com/java-algorithm/bom/commit/3789ffe0bd7fb5dd989021b06dd12d181c20a933)  |
 | [행성 연결](https://www.acmicpc.net/problem/16398)       | [BOJ16398.java](https://github.com/java-algorithm/bom/commit/fdfaf68bb3f72303d3f45ac5ade601a56ddc62ca) |
 | [튜터-튜티 관계의 수](https://www.acmicpc.net/problem/24542) | [BOJ24542.java](https://github.com/java-algorithm/bom/commit/4091d09e9a53b3699fd33a39ae41998667c53a06) |
+
+## 9주차
+| 문제                                                   | 풀이                                                                                                              |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)         | [Programmers_43162.java](https://github.com/java-algorithm/bom/commit/8b49e0093cf959ff24bfc4e1030ed91d6ee6ed97) |
+| [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | [Programmers_43165.java](https://github.com/java-algorithm/bom/commit/41813a4f17444f6980963ac27701332404658c15) |
+| [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)       | [Programmers_87694.java](https://github.com/java-algorithm/bom/commit/20a8a0b595df8d84a0f4c9a0d52879e24042da31) |
+| [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)        | [Programmers_92343.java](https://github.com/java-algorithm/bom/commit/75e497a033977df5cbd377f403119c51f8f626a0) |
