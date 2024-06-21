@@ -93,3 +93,11 @@
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | [Programmers_43165.java](https://github.com/java-algorithm/bom/commit/41813a4f17444f6980963ac27701332404658c15) |
 | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)       | [Programmers_87694.java](https://github.com/java-algorithm/bom/commit/20a8a0b595df8d84a0f4c9a0d52879e24042da31) |
 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)        | [Programmers_92343.java](https://github.com/java-algorithm/bom/commit/75e497a033977df5cbd377f403119c51f8f626a0) |
+
+## 10주차
+| 문제                                                                              | 풀이                                                                                                                  |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Leetcode_Path_Sum_III.java](https://github.com/java-algorithm/bom/commit/586eedc60594efdd593f04d6f19cddc08a69f800) |
+| [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)       | [Programmers_12946.java](https://github.com/java-algorithm/bom/commit/c78e35a20193190bb57aa665f32d6541a2b1eb97)     |
+| [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)        | [Programmers_43163.java](https://github.com/java-algorithm/bom/commit/839a8b4f110343a48ce25ad3f7bf6286170d8d3d)     |
+| [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)         | [Programmers_43164.java](https://github.com/java-algorithm/bom/commit/48bfc96c55137b6fe69459458b96739c48bf60c6)     |
