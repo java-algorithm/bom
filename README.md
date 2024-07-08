@@ -109,3 +109,11 @@
 | [경쟁적 전염](https://www.acmicpc.net/problem/18405)                          | [BOJ_18405.java](https://github.com/java-algorithm/bom/commit/d8f562a92dc9f66573fe75f98b027a04b38c8b37)         |
 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | [Programmers_60062.java](https://github.com/java-algorithm/bom/commit/055b1536f88dbc3d97da722a0ee1a3568d20799b) |
 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)   | [Programmers_87946.java](https://github.com/java-algorithm/bom/commit/00f368029419f113215f8595841c3db6c8593125) |
+
+## 12주차
+| 문제                                                                        | 풀이                                                                                                               |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [감소하는 수](https://www.acmicpc.net/problem/1038)                            | [BOJ_1038.java](https://github.com/java-algorithm/bom/commit/ae755825a85d5e05c4bf14d5505779e517fb8fb4)           |
+| [좋은수열](https://www.acmicpc.net/problem/2661)                              | [BOJ_2661.java](https://github.com/java-algorithm/bom/commit/cdc598538f1ff5f54b5c8660e9c7f13cbe37f051)           |
+| [친구 팰린드롬](https://www.acmicpc.net/problem/15270)                          | [BOJ_15270.java](https://github.com/java-algorithm/bom/commit/6a163efa4b218f723b1de0ee99b9f5b0311ba281)          |
+| [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [Programmers_250136.java](https://github.com/java-algorithm/bom/commit/e8024249fb96d09bdf3f07dd145b27298538eac5) |
