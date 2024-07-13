@@ -117,3 +117,11 @@
 | [좋은수열](https://www.acmicpc.net/problem/2661)                              | [BOJ_2661.java](https://github.com/java-algorithm/bom/commit/cdc598538f1ff5f54b5c8660e9c7f13cbe37f051)           |
 | [친구 팰린드롬](https://www.acmicpc.net/problem/15270)                          | [BOJ_15270.java](https://github.com/java-algorithm/bom/commit/6a163efa4b218f723b1de0ee99b9f5b0311ba281)          |
 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [Programmers_250136.java](https://github.com/java-algorithm/bom/commit/e8024249fb96d09bdf3f07dd145b27298538eac5) |
+
+## 13주차
+| 문제                                               | 풀이                                                                                                      |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [우수 마을](https://www.acmicpc.net/problem/1949)    | [BOJ_1949.java](https://github.com/java-algorithm/bom/commit/b85b131fc5a7c19d43aa59a9467f7272e5d8bf26)  |
+| [사회망 서비스](https://www.acmicpc.net/problem/2533)  | [BOJ_2533.java](https://github.com/java-algorithm/bom/commit/9020e28de41a83ba73202f7435a6cad57d4b4c95)  |
+| [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [BOJ_12865.java](https://github.com/java-algorithm/bom/commit/997bae2075d5ac69ac0a8c7b9ef4a80f119712f0) |
+| [시간이 겹칠까](https://www.acmicpc.net/problem/28018) | [BOJ_28018.java](https://github.com/java-algorithm/bom/commit/4e83759be82d90141e29b1d842cdc6d3a5bfe48e) |
