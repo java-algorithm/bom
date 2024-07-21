@@ -125,3 +125,11 @@
 | [사회망 서비스](https://www.acmicpc.net/problem/2533)  | [BOJ_2533.java](https://github.com/java-algorithm/bom/commit/9020e28de41a83ba73202f7435a6cad57d4b4c95)  |
 | [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [BOJ_12865.java](https://github.com/java-algorithm/bom/commit/997bae2075d5ac69ac0a8c7b9ef4a80f119712f0) |
 | [시간이 겹칠까](https://www.acmicpc.net/problem/28018) | [BOJ_28018.java](https://github.com/java-algorithm/bom/commit/4e83759be82d90141e29b1d842cdc6d3a5bfe48e) |
+
+## 14주차
+| 문제                                                                         | 풀이                                                                                                               |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [알파벳](https://www.acmicpc.net/problem/1987)                                | [BOJ_1987.java](https://github.com/java-algorithm/bom/commit/ea4c142a50d480d3308883a9b35bda488af57b49)           |
+| [전화번호 목록](https://www.acmicpc.net/problem/5052)                            | [BOJ_5052.java](https://github.com/java-algorithm/bom/commit/ea743519edbb08f900990520a31d832392b4c474)           |
+| [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)                       | [BOJ_19951.java](https://github.com/java-algorithm/bom/commit/e49fd34f8fce3127cdc3a98121ee21253e7e8a68)          |
+| [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [Programmers_142085.java](https://github.com/java-algorithm/bom/commit/8edb0c5257a573af305bd578e90b0338003038f9) |
